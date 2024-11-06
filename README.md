@@ -4,7 +4,7 @@
 Community Plate is a community-driven platform for sharing food resources. It allows users to donate or request food items, aiming to reduce food waste and promote food sustainability. 
 
 ## Project Overview
-- This project is designed with a focus on two main user roles:
+This project is designed with a focus on two main user roles:
 - **Donors** - Individuals who wish to donate food items.
 - **Recipients** – Individuals who request food items available in the community.
 
