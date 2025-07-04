@@ -27,24 +27,6 @@ This project includes two main classes:
 
 ---
 
-## 📁 Folder Structure
-community-plate/
-├── src/
-│   ├── junit_test/
-│   │   ├── TestFoodItem.java
-│   │   ├── TestUser.java
-│   ├── model/
-│   │   ├── FoodItem.java
-│   │   ├── User.java
-│   │   ├── Main.java
-│   │   ├── InvalidNameException.java
-│   │   ├── InvalidPasswordException.java
-│   │   ├── InvalidRoleException.java
-├── README.md
-└── .gitignore
-
----
-
 ## 🚀 Prerequisites
 - Java Development Kit (JDK) version 11 or higher
 - An IDE (e.g., IntelliJ IDEA, Eclipse) for Java development
